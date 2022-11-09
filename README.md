@@ -5,6 +5,6 @@
     The following packages are needed: bcrypt, connect-session-sequelize, dotenv, express, express-handlebars, express-session, mysql2, and sequelize.
 
 # Deployed Heroku site
-
+    still working on it
 # Take-Away
     This project was hard overall, but I did feel more prepared in regards to each feature. I was not able to complete by deadline, but am impressed with how far I was able to get and the understanding I have of the functions. Over time I can see myself getting better at this full spectrum skill. 
