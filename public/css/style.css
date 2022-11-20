@@ -1,5 +1,6 @@
-h1 {
-    font-size: 40px;
-    align-content: center;
-    text-align: center;
+#login-form {
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+
 }
